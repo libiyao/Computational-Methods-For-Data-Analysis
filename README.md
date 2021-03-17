@@ -1,5 +1,5 @@
 # Computational-Methods-For-Data-Analysis
-This is an repository for AMATH 482 at the University of Washington taught by Jason John Bramburger.
+This is a repository for AMATH 482 at the University of Washington taught by Jason John Bramburger.
 
 There are 5 assignments in this class and each folder includes all materials that is related to each assignment.
 The topics of each assignment are:
